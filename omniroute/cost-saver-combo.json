@@ -1,0 +1,9 @@
+{
+  "name": "Full-Stack Cost Saver",
+  "strategy": "cost-optimized",
+  "compression": { "enabled": true, "pipeline": ["caveman", "rtk"], "targetRatio": 0.5 },
+  "steps": [
+    { "tier": 1, "provider": "openrouter", "model": "meta-llama/llama-3.3-70b-instruct:free", "description": "Free tier for scaffolding and boilerplate." },
+    { "tier": 2, "provider": "openrouter", "model": "anthropic/claude-3.5-sonnet", "description": "Premium fallback for complex logic and debugging.", "handoff": "context-relay" }
+  ]
+}

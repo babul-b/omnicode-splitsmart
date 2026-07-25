@@ -1,0 +1,7 @@
+# runtime data written by splitsmart
+app/splitsmart_data.json
+# local secrets — never commit these
+.env
+*.key
+__pycache__/
+*.pyc

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "omniroute/auto",
+  "provider": {
+    "omniroute": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "OmniRoute (local gateway)",
+      "options": {
+        "baseURL": "http://localhost:20128/v1",
+        "apiKey": "sk-local-omniroute-key"
+      },
+      "models": {
+        "auto": {
+          "name": "OmniRoute Auto-Router"
+        }
+      }
+    }
+  }
+}
