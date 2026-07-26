@@ -17,17 +17,19 @@ splitter you run from the terminal.
 ## The series
 
 1. **Part 1 — The Ultimate AI Coding Stack:** what each tool is, how they
-   connect, and why the combination beats using any one alone.
-2. **Part 2 — Setup & Hello World:** install all three, connect them with
+   connect, and why the combination beats using any one alone.\
+   [Link to Medium Article Part 1](https://medium.com/@babul_b/the-ultimate-open-source-ai-coding-stack-opencode-openrouter-omniroute-124eb61ef58f)
+3. **Part 2 — Setup & Hello World:** install all three, connect them with
    the corrected config in this repo, and fix a deliberately broken script
-   to prove the setup works.
-3. **Part 3 — Cost vs Performance:** the OmniRoute cost-saver combo — free
+   to prove the setup works.\
+   [Link to Medium Article Part 2](https://medium.com/@babul_b/setting-up-opencode-openrouter-and-omniroute-with-a-hello-world-that-proves-it-works-9d0baaff885a)
+5. **Part 3 — Cost vs Performance:** the OmniRoute cost-saver combo — free
    models first, premium fallback only when needed — plus token compression
-   and watching spend.
-4. **Part 4 — Build SplitSmart:** build the expense splitter step by step
-   with the stack, then push it to GitHub.
-
-*(Article links go here once published.)*
+   and watching spend.\
+   [Link to Medium Article Part 3](https://medium.com/@babul_b/cost-vs-performance-making-your-ai-coding-stack-nearly-free-5c761ebc4e12)
+7. **Part 4 — Build SplitSmart:** build the expense splitter step by step
+   with the stack, then push it to GitHub.\
+   [Link to Medium Article Part 4](https://medium.com/@babul_b/building-splitsmart-a-real-project-with-your-open-source-ai-stack-843fb1c0bca0)
 
 ## What's in this repo
 
